@@ -31,11 +31,3 @@ HTML/CSS로 만든 간단한 개인 포트폴리오 페이지입니다.
 ```bash
 python -m http.server 8000
 ```
-
-## 환경변수
-
-필요한 환경변수는 없습니다.
-
-## 보안 및 공개 메모
-
-secret/API key/password/token은 발견되지 않았습니다. 공개 저장소로 유지 가능합니다. 실제 포트폴리오로 쓰려면 placeholder 이메일과 샘플 프로젝트를 실제 정보로 교체하세요.
